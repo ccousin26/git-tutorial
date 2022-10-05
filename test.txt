@@ -1,1 +1,2 @@
 test.txt contient ceci
+et maintenant ceci
